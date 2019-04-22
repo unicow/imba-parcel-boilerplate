@@ -1,0 +1,22 @@
+{
+	"name": "imba-parcel-boilerplate",
+	"version": "0.0.0",
+	"scripts": {
+		"build": "parcel build source/index.html -d public/",
+		"serve": "parcel source/index.html -d public/"
+	},
+	"author": "pushqrdx",
+	"license": "MIT",
+	"browserslist": [
+		"last 1 Chrome version"
+	],
+	"devDependencies": {
+		"parcel-bundler": "^1.12.3",
+		"parcel-plugin-imba": "github:pushqrdx/parcel-plugin-imba",
+		"stylus": "^0.54.5"
+	},
+	"dependencies": {
+		"imba": "github:unicow/imba",
+		"imba-router": "github:unicow/imba-router"
+	}
+}
