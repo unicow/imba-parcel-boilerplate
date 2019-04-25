@@ -1,5 +1,5 @@
 import 'imba-router'
-import './index.styl'
+import './index.scss'
 import { App } from './app'
 
 Imba.mount <App>

@@ -1,4 +1,4 @@
-import './index.styl'
+import './index.scss'
 
 export tag App
 	def render
