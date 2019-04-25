@@ -1,7 +1,7 @@
 #### Notes: 
 
-- This boilerplate is using my fork of imba-router which aren't always synced with upstream.
-- Parcel is using latest chrome version (defined in `package.json`) for building in order to support latest javascript features.
+- This boilerplate is using my fork of imba and imba-router which aren't always synced with upstream.
+- Parcel is using `latest chrome version` (defined in `package.json`) for building in order to support latest javascript features.
 	
 ---
 
